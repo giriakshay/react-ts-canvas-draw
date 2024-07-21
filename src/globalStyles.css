@@ -1,0 +1,19 @@
+.can-d-flex {
+  display: flex;
+}
+
+.can-space-between {
+  justify-content: space-between;
+}
+
+.clear-btn {
+  display: inline-block;
+  width: 100px;
+  padding: 10px;
+  margin-top: 15px;
+  height: fit-content;
+  background: aqua;
+  border-radius: 5px;
+  margin-right: 10px;
+  font-family: "Helvetica";
+}
